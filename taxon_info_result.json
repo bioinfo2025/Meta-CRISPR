@@ -1,0 +1,22 @@
+{
+  "flags": [
+    "infraspecific"
+  ],
+  "is_suppressed": false,
+  "is_suppressed_from_synth": false,
+  "name": "Canis lupus familiaris",
+  "ott_id": 247333,
+  "rank": "subspecies",
+  "source": "ott3.7draft2",
+  "synonyms": [
+    "Canis canis",
+    "Canis domesticus",
+    "Canis familiaris",
+    "beagle dog",
+    "beagle dogs"
+  ],
+  "tax_sources": [
+    "ncbi:9615"
+  ],
+  "unique_name": "Canis lupus familiaris"
+}
